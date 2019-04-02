@@ -1,6 +1,6 @@
 # ekostock
 
-Whether you're reading this because you were in YGLF 2019 and got our Eko bag, or you're just a stock photos enthusiast - you've come to the right place!
+Whether you're reading this because you were in [YGLF 2019](https://www.israel.yglfconf.com) and got our Eko bag, or you're just a stock photos enthusiast - you've come to the right place!
 
 ## What's this about?
 
