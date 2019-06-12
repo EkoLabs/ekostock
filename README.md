@@ -1,6 +1,9 @@
 # ekostock
 
-Whether you're reading this because you were in [YGLF 2019](https://www.israel.yglfconf.com) and got our Eko bag, or you're just a stock photos enthusiast - you've come to the right place!
+Whether you're reading this because you're reading Twitter instead of working, you were in [YGLF 2019](https://www.israel.yglfconf.com) and got our Eko bag, or it's just that you're a stock photos enthusiast - you've come to the right place!
+
+![Stock Photos of Eko Engineering Employees](https://user-images.githubusercontent.com/3951311/59327676-edbbe880-8cf2-11e9-98bf-9b2e8fe3edfb.png)
+
 
 ## What's this about?
 
